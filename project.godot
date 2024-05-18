@@ -12,7 +12,7 @@ config_version=5
 
 config/name="10-first Person Controller"
 run/main_scene="res://Scenes/World.tscn"
-config/features=PackedStringArray("4.0", "Forward Plus")
+config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
@@ -60,7 +60,7 @@ common/physics_ticks_per_second=144
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 anti_aliasing/quality/msaa_2d=2
 anti_aliasing/quality/msaa_3d=2
 anti_aliasing/quality/screen_space_aa=1
-textures/canvas_textures/default_texture_filter=0
