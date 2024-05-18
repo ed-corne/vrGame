@@ -4,6 +4,19 @@
 
 Desarrollar una simulación de realidad virtual (VR) para dispositivos móviles utilizando un entorno 3D.
 
+## Entrega
+
+- **Enlace al Repositorio Público del Proyecto**: [Enlace al repositorio]
+
+- **Impresiones de Pantalla del Proyecto Funcionando**:
+  ![Captura 1](./ScreenShots/screen1.png)
+  ![Captura 2](./ScreenShots/screen2.png)
+  ![Captura 2](./ScreenShots/screen3.png)
+
+- **Ejecutable de Android (.aab)**:
+
+  - Se encuentra en la carpeta `Ejecutable` dentro del repositorio.
+
 ## Desarrollo
 
 ### 1. Buscar Recursos
@@ -24,22 +37,6 @@ El proyecto fue exportado a Android siguiendo las instrucciones en: [Exporting f
 
 Alternativamente, el proyecto se puede exportar a iOS siguiendo las instrucciones en: [Exporting for iOS](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_ios.html).
 
-## Entrega
-
-- **Enlace al Repositorio Público del Proyecto**: [Enlace al repositorio]
-
-- **Impresiones de Pantalla del Proyecto Funcionando**:
-  ![Captura 1](./ScreenShots/screen1.png)
-  ![Captura 2](./ScreenShots/screen2.png)
-  ![Captura 2](./ScreenShots/screen3.png)
-
-- **Ejecutable de Android (.aab)**:
-
-  - Se encuentra en la carpeta `Ejecutable` dentro del repositorio.
-
-- **Video (para proyectos en iOS)**:
-  - [Enlace al video demostrativo] (para proyectos exportados a iOS).
-
 ## Bibliografía
 
 - Tutorial de desarrollo de VR en Godot: [YouTube Playlist](https://www.youtube.com/watch?v=fxZoXfX4oBo&list=PLfX6C2dxVyLxXl3gJwakzdqRaV7WKlqFR)
@@ -59,7 +56,7 @@ Alternativamente, el proyecto se puede exportar a iOS siguiendo las instruccione
 1. Clona este repositorio:
 
    ```bash
-   git clone [enlace al repositorio]
+   git clone [https://github.com/ed-corne/vrGame.git]
    ```
 
 2. Abre el proyecto en Godot.
