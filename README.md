@@ -6,8 +6,6 @@ Desarrollar una simulación de realidad virtual (VR) para dispositivos móviles 
 
 ## Entrega
 
-- **Enlace al Repositorio Público del Proyecto**: [Enlace al repositorio]
-
 - **Impresiones de Pantalla del Proyecto Funcionando**:
   ![Captura 1](./ScreenShots/screen1.png)
   ![Captura 2](./ScreenShots/screen2.png)
