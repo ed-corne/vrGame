@@ -1,7 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu repositorio de la práctica de VR en Godot para Android o iOS con entorno 3D:
-
----
-
 # Proyecto de Simulación de VR para Móvil con Entorno 3D
 
 ## Objetivo
@@ -33,8 +29,9 @@ Alternativamente, el proyecto se puede exportar a iOS siguiendo las instruccione
 - **Enlace al Repositorio Público del Proyecto**: [Enlace al repositorio]
 
 - **Impresiones de Pantalla del Proyecto Funcionando**:
-  ![Captura 1](ruta/a/captura1.png)
-  ![Captura 2](ruta/a/captura2.png)
+  ![Captura 1](./ScreenShots/screen1.png)
+  ![Captura 2](./ScreenShots/screen2.png)
+  ![Captura 2](./ScreenShots/screen3.png)
 
 - **Ejecutable de Android (.aab)**:
 
